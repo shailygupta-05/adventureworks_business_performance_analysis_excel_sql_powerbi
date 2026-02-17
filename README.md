@@ -1,10 +1,33 @@
-#  Adventure Works Business Performance Dashboard | SQL + Excel + Power BI 
+##  Adventure Works Business Performance Dashboard | SQL + Excel + Power BI 
 
  ## OBJECTIVE
 To analyze Adventure Works retail sales data end-to-end using Excel → SQL → Power BI and deliver actionable business insights on revenue, profitability, product performance, and regional trends for data-driven decision-making.
 
----
+## TABLE OF CONTENTS
 
+Project Overview
+
+Problem Statement
+
+Dataset
+
+Tools & Technologies
+
+Methods & Workflow
+
+Dashboard
+
+Business Insights & Key Findings
+
+Business Recommendations
+
+How to Run This Project
+
+Result & Conclusion
+
+Author & Contact
+
+---
 ## PROJECT OVERVIEW
 This project analyzes the Adventure Works dataset using a complete analytics workflow:
 
@@ -74,7 +97,7 @@ Built interactive dashboards with KPIs, drill-downs, filters, and navigation.
 ##  DASHBOARDS
 
 ###  EXECUTIVE OVERVIEW
-
+[image alt](https://github.com/shailygupta-05/adventureworks_business_performance_analysis_excel_sql_powerbi/blob/7ff792c0c1a97e0c09eae0ae6b425e7306bd629d/Dashboard_Screenshots/Executive%20Overview.png)
 Includes:
 • KPIs — Revenue, Net Profit, Orders, Customers, Profit Margin  
 • Sales Trend Over Time (drill-down enabled)  
