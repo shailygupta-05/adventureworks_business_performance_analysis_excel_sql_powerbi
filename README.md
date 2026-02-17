@@ -3,29 +3,20 @@
  ## OBJECTIVE
 To analyze Adventure Works retail sales data end-to-end using Excel → SQL → Power BI and deliver actionable business insights on revenue, profitability, product performance, and regional trends for data-driven decision-making.
 
-## TABLE OF CONTENTS
+## 📌 Table of Contents
 
-Project Overview
+- [Project Overview](#project-overview)
+- [Problem Statement](#problem-statement)
+- [Dataset](#dataset)
+- [Tools & Technologies](#tools--technologies)
+- [Methods & Workflow](#methods--workflow)
+- [Dashboards](#dashboards)
+- [Business Insights & Key Findings](#business-insights--key-findings)
+- [ Recommendations](#recommendations)
+- [How to Run This Project](#how-to-run-this-project)
+- [Result & Conclusion](#result--conclusion)
+- [Author](#author)
 
-Problem Statement
-
-Dataset
-
-Tools & Technologies
-
-Methods & Workflow
-
-Dashboard
-
-Business Insights & Key Findings
-
-Business Recommendations
-
-How to Run This Project
-
-Result & Conclusion
-
-Author & Contact
 
 ---
 ## PROJECT OVERVIEW
@@ -97,7 +88,7 @@ Built interactive dashboards with KPIs, drill-downs, filters, and navigation.
 ##  DASHBOARDS
 
 ###  EXECUTIVE OVERVIEW
-[image alt]/(https://github.com/shailygupta-05/adventureworks_business_performance_analysis_excel_sql_powerbi/blob/7ff792c0c1a97e0c09eae0ae6b425e7306bd629d/Dashboard_Screenshots/Executive%20Overview.png)
+![image alt]/(https://github.com/shailygupta-05/adventureworks_business_performance_analysis_excel_sql_powerbi/blob/7ff792c0c1a97e0c09eae0ae6b425e7306bd629d/Dashboard_Screenshots/Executive%20Overview.png)
 Includes:
 • KPIs — Revenue, Net Profit, Orders, Customers, Profit Margin  
 • Sales Trend Over Time (drill-down enabled)  
@@ -108,7 +99,7 @@ Includes:
 ---
 
 ### SALES ANALYSIS DASHBOARD
-
+![image alt](https://github.com/shailygupta-05/adventureworks_business_performance_analysis_excel_sql_powerbi/blob/7064272910b3e1814a63d95e41e9ed7953d1430b/Dashboard_Screenshots/Sales%20Analysis.png)
 Includes:
 • KPIs — Revenue, Orders, Avg Order Value, Sales Growth  
 • Sales by Category  
