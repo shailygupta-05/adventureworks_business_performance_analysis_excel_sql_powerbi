@@ -111,7 +111,7 @@ Includes:
 ---
 
 ### PROFIT & PRODUCT INSIGHTS DASHBOARD
-
+![image alt](https://github.com/shailygupta-05/adventureworks_business_performance_analysis_excel_sql_powerbi/blob/11ce6ec532f385515c4f9545e1555fe4ee66e822/Dashboard_Screenshots/Profit%20and%20Product%20Insights.png)
 Includes:
 • KPIs — Net Profit, Profit Margin %, Production Cost  
 • Top 10 Products by Profit  
