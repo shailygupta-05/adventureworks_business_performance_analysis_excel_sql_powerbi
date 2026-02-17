@@ -97,7 +97,7 @@ Built interactive dashboards with KPIs, drill-downs, filters, and navigation.
 ##  DASHBOARDS
 
 ###  EXECUTIVE OVERVIEW
-[image alt](https://github.com/shailygupta-05/adventureworks_business_performance_analysis_excel_sql_powerbi/blob/7ff792c0c1a97e0c09eae0ae6b425e7306bd629d/Dashboard_Screenshots/Executive%20Overview.png)
+[image alt]/(https://github.com/shailygupta-05/adventureworks_business_performance_analysis_excel_sql_powerbi/blob/7ff792c0c1a97e0c09eae0ae6b425e7306bd629d/Dashboard_Screenshots/Executive%20Overview.png)
 Includes:
 • KPIs — Revenue, Net Profit, Orders, Customers, Profit Margin  
 • Sales Trend Over Time (drill-down enabled)  
