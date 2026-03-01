@@ -1,9 +1,9 @@
 ##  Adventure Works Business Performance Dashboard | Excel,SQL,Power BI 
 
- ### OBJECTIVE
+### OBJECTIVE
 To analyze Adventure Works retail sales data end-to-end using Excel, SQL, and Power BI and deliver actionable business insights on revenue, profitability, product performance, and regional trends for data-driven decision-making.
 
-### Table of Contents
+### TABLE OF CONTENTS
 
 - [Project Overview](#project-overview)
 - [Problem Statement](#problem-statement)
@@ -54,7 +54,7 @@ This project addresses these challenges through structured analysis and visualiz
 • Power BI — Visualization & dashboard development  
 
 ---
-##  METHODS & WORKFLOW
+###  METHODS & WORKFLOW
 
  **Data Understanding (Excel)**  - Reviewed dataset structure, columns, relationships, and formats; standardized date formats and column names.
 
@@ -143,7 +143,7 @@ This project successfully demonstrates an end-to-end data analytics workflow fro
 - Support strategic decision-making
 
 ---
-## AUTHOR
+### AUTHOR
 **Name** - Shaily Gupta  
 **Email** -shailygupta2529@gmail.com  
 **Linkedin** -https://www.linkedin.com/in/shailygupta05/
