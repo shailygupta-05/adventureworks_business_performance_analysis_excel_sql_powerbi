@@ -1,4 +1,4 @@
-##  Adventure Works Business Performance Dashboard | Excel,SQL,Power BI 
+##  Adventure Works Business Performance Dashboard | Excel, SQL, Power BI 
 
 ### OBJECTIVE
 To analyze Adventure Works retail sales data end-to-end using Excel, SQL, and Power BI and deliver actionable business insights on revenue, profitability, product performance, and regional trends for data-driven decision-making.
@@ -9,7 +9,6 @@ To analyze Adventure Works retail sales data end-to-end using Excel, SQL, and Po
 - [Problem Statement](#problem-statement)
 - [Dataset](#dataset)
 - [Tools & Technologies](#tools--technologies)
-- [Methods & Workflow](#methods--workflow)
 - [Dashboards](#dashboards)
 - [Business Insights & Key Findings](#business-insights--key-findings)
 - [ Recommendations](#recommendations)
@@ -43,8 +42,14 @@ This project addresses these challenges through structured analysis and visualiz
 ###  DATASET
 **Dataset:**  Adventure Works Sales Data  
 **Domain:**  Retail / E-Commerce  
-**Type:**  Transactional Sales Data  
-**Includes** -  Orders and revenue data  , Product categories & subcategories, Customer demographics, Regional performance and Cost and profit information  
+**Type:**  Transactional Sales Data 
+
+ **Includes** -  
+- **60k +** Orders and revenue data   
+- Product categories & subcategories 
+- Customer demographics 
+- Regional performance 
+- Cost and profit information  
 
 ---
 ###  TOOLS & TECHNOLOGIES
@@ -52,20 +57,12 @@ This project addresses these challenges through structured analysis and visualiz
 • Microsoft Excel — Data understanding & preparation  
 • SQL — Data integration, transformation, KPI analysis  
 • Power BI — Visualization & dashboard development  
-
----
-###  METHODS & WORKFLOW
-
- **Data Understanding (Excel)**  - Reviewed dataset structure, columns, relationships, and formats; standardized date formats and column names.
-
-**Data Preparation (Excel → CSV)**  - Converted Excel files to UTF-8 CSV format for database import.
-
-**Data Integration (SQL)**  - Merged fact tables using UNION ALL, joined with dimension tables, and created a master sales table.
-
-**Data Analysis (SQL)**  - Calculated KPIs, validated metrics, and identified trends using analytical queries.
-
-**Visualization (Power BI)**  - Built interactive dashboards with KPIs, drill-downs, filters, and navigation.
-
+####  METHODS & WORKFLOW -
+- Data Understanding (Excel) - Reviewed dataset structure, columns, relationships, and formats; standardized date formats and column names.
+- Data Preparation (Excel → CSV) - Converted Excel files to UTF-8 CSV format for database import.
+- Data Integration (SQL)  - Merged fact tables using UNION ALL, joined with dimension tables, and created a master sales table.
+- Data Analysis (SQL)  - Calculated KPIs, validated metrics, and identified trends using analytical queries.
+- Visualization (Power BI)  - Built interactive dashboards with KPIs, drill-downs, filters, and navigation.
 ---
 ##  DASHBOARDS
 
