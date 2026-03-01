@@ -1,9 +1,9 @@
 ##  Adventure Works Business Performance Dashboard | SQL + Excel + Power BI 
 
- ## OBJECTIVE
+ ### OBJECTIVE
 To analyze Adventure Works retail sales data end-to-end using Excel → SQL → Power BI and deliver actionable business insights on revenue, profitability, product performance, and regional trends for data-driven decision-making.
 
-## 📌 Table of Contents
+### Table of Contents
 
 - [Project Overview](#project-overview)
 - [Problem Statement](#problem-statement)
@@ -13,31 +13,23 @@ To analyze Adventure Works retail sales data end-to-end using Excel → SQL → 
 - [Dashboards](#dashboards)
 - [Business Insights & Key Findings](#business-insights--key-findings)
 - [ Recommendations](#recommendations)
-- [How to Run This Project](#how-to-run-this-project)
 - [Result & Conclusion](#result--conclusion)
 - [Author](#author)
-
-
 ---
-## PROJECT OVERVIEW
+### PROJECT OVERVIEW
 This project analyzes the Adventure Works dataset using a complete analytics workflow:
-
 ➡️ Data understanding in Excel
 ➡️ Data preparation and modeling in SQL
 ➡️ Interactive dashboard creation in Power BI
-
- Three dashboards were built:
-
- 1. Executive Overview Dashboard
-
- 2. Sales Analysis Dashboard
-
- 3. Profit & Product Insights Dashboard
+Three dashboards were built:
+1. Executive Overview Dashboard
+2. Sales Analysis Dashboard
+3. Profit & Product Insights Dashboard
 
 These dashboards provide a comprehensive view of business performance across time, products, customers, and regions.
 
 ---
- ## PROBLEM STATEMENT
+### PROBLEM STATEMENT
 Businesses generate large volumes of sales data, but without analysis it is difficult to understand:
 
 • Which products drive revenue  
@@ -48,7 +40,7 @@ Businesses generate large volumes of sales data, but without analysis it is diff
 This project addresses these challenges through structured analysis and visualization.
 
 ---
-##  DATASET
+###  DATASET
 **Dataset:** Adventure Works Sales Data  
 **Domain:** Retail / E-Commerce  
 **Type:** Transactional Sales Data  
@@ -60,7 +52,7 @@ Includes:
 • Cost and profit information  
 
 ---
-##  TOOLS & TECHNOLOGIES
+###  TOOLS & TECHNOLOGIES
 
 • Microsoft Excel — Data understanding & preparation  
 • SQL — Data integration, transformation, KPI analysis  
@@ -69,20 +61,15 @@ Includes:
 ---
 ##  METHODS & WORKFLOW
 
-**Step 1 — Data Understanding (Excel)**  
-Reviewed dataset structure, columns, relationships, and formats; standardized date formats and column names.
+ **Data Understanding (Excel)**  - Reviewed dataset structure, columns, relationships, and formats; standardized date formats and column names.
 
-**Step 2 — Data Preparation (Excel → CSV)**  
-Converted Excel files to UTF-8 CSV format for database import.
+**Data Preparation (Excel → CSV)**  - Converted Excel files to UTF-8 CSV format for database import.
 
-**Step 3 — Data Integration (SQL)**  
-Merged fact tables using UNION ALL, joined with dimension tables, and created a master sales table.
+**Data Integration (SQL)**  - Merged fact tables using UNION ALL, joined with dimension tables, and created a master sales table.
 
-**Step 4 — Data Analysis (SQL)**  
-Calculated KPIs, validated metrics, and identified trends using analytical queries.
+**Data Analysis (SQL)**  - Calculated KPIs, validated metrics, and identified trends using analytical queries.
 
-**Step 5 — Visualization (Power BI)**  
-Built interactive dashboards with KPIs, drill-downs, filters, and navigation.
+**Visualization (Power BI)**  - Built interactive dashboards with KPIs, drill-downs, filters, and navigation.
 
 ---
 ##  DASHBOARDS
@@ -120,8 +107,7 @@ Includes:
 • Revenue vs Net Profit Analysis  
 
 ---
-
-## BUSINESS INSIGHTS & KEY FINDINGS
+### BUSINESS INSIGHTS & KEY FINDINGS
 
 • Sales peaked in 2013 (~56% higher than previous years) and dropped sharply in 2014 due to incomplete data.  
 
@@ -134,7 +120,7 @@ Includes:
 • Customer purchases are evenly split by gender (~50% male, ~50% female). So, Sales distribution across genders is nearly equal, indicating a balanced customer base.
 
 ---
-## RECOMMENDATIONS
+### RECOMMENDATIONS
 
 • Diversify product portfolio beyond Bikes  because Revenue is extremely concentrated in Bikes category , indicating heavy dependency on one category.
 
@@ -149,19 +135,7 @@ Includes:
 • Expand successful bike segments while reducing dependency  
 
 ---
-##  HOW TO RUN THIS PROJECT
-1 Download the Power BI (.pbix) file
-
-2 Open using Power BI Desktop
-
-3 Use slicers to filter data dynamically
-
-4 Navigate between dashboards using buttons
-
-5 Explore drill-down features for deeper insights 
-
----
-## RESULT & CONCLUSION
+### RESULT & CONCLUSION
 This project successfully demonstrates an end-to-end data analytics workflow from raw data to business insights. It enables organizations to:
 - Understand revenue drivers
 
